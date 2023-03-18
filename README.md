@@ -9,7 +9,9 @@ https://netlify-picspider.netlify.app/main.html
 
 ## 下载地址
 
-https://netlify-picspider.netlify.app/p.apk
+android版本： https://netlify-picspider.netlify.app/p.apk
+
+windows&mac版本下载： https://www.aliyundrive.com/s/dsixdmKA1nX
 
 ## 截图
 
